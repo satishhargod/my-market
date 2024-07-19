@@ -227,7 +227,7 @@ const FooterSection = () => (
       <div className="row">
         {/* About Us Section */}
         <div id="about-us" className="col-sm pe-5 pt-3">
-          <img src={process.env.PUBLIC_URL +"/Images/logo.png" alt="Logo" className="penguin-logo img-fluid" />
+          <img src={process.env.PUBLIC_URL +"/Images/logo.png"} alt="Logo" className="penguin-logo img-fluid" />
           <hr />
           <p>
             Changing the way you dress will change the way you feel. When you
