@@ -53,9 +53,3 @@ h1 {
   background-color: rgba(164, 188, 70, 1);
   color: white;
 }
-.footer-section {
-   /* background-color: hsla(72, 47%, 51%, 0.486); */
-   background-color:linear-gradient(135deg, rgba(85,239,203,1) 0%,rgba(30,87,153,1) 0%,rgba(85,239,203,1) 0%,rgba(91,202,255,1) 100%);
- 
-  padding: 3% 1% 1% 1%;
-}
